@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Plv641NMtI8=",
+  "success": true,
+  "projectFilePath": "/Users/dimagordeev/Солнышко/Lam7/Lam7/Lam7.csproj",
+  "expectedPackageFiles": [
+    "/Users/dimagordeev/.nuget/packages/microsoft.windowsdesktop.app.ref/10.0.2/microsoft.windowsdesktop.app.ref.10.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
