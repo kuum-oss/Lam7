@@ -3,7 +3,7 @@ using System.Drawing;
 using System.Windows.Forms;
 
 namespace Lam7;
-
+//уауа
 public class Form2 : Form
 {
     private Form _parent;
